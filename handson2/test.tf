@@ -1,5 +1,5 @@
 provider "aws" {
-    region ="ap-northeast-1"
+    regioNDn ="ap-northeast-1"
     access_key="AKIAYOZVCR6PW4Q2MP6G"
     secert_key="VJIuyOTeriucRJxvsIjmc8jetg+SV1jGtVSxVMOS"
 }
